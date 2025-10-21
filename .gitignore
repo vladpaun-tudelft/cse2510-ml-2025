@@ -19,6 +19,10 @@ env/
 # --- Jupyter ---
 .ipynb_checkpoints/
 
+# Jupyter / VS Code temporary notebook cache
+.virtual_documents/
+
+
 # --- Data ---
 # Don't ignore all audio by default
 !*.flac
