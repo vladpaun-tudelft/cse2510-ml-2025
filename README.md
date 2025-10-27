@@ -1,6 +1,7 @@
 # CSE2510 — Machine Learning (2024)
 
-> **Status:** active (not archived). Lab notebooks for TU Delft CSE2510: Intro, Parametric/Non-Parametric, Linear/Nonlinear, Fairness, Unsupervised (clustering, PCA).
+> **Archived repository**  
+> Personal archive of my TU Delft CSE2510 coursework. This repo is not maintained and is kept for reference only.
 
 ## Structure
 - `Lab 1 – Introduction` … NumPy and Python warm-ups (Titanic CSV)
